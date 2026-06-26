@@ -21,7 +21,7 @@ Tengo especial interés en incorporarme al mundo profesional (con el objetivo pu
 
 - ⚙️ **Intereses Técnicos:** Algoritmia avanzada, computación gráfica en tiempo real, optimización de sistemas a bajo nivel, desarrollo con Custom ROMs y optimización de hardware.
 - 🗣️ **Idiomas:** Español (Nativo), Catalán (Nativo), Inglés (Nivel C1).
-- 🚗 **Otros Datos:** Carné de conducir, monitor de tiempo libre con certificación oficial (ROPEC), exesquiador federado.
+- 🚗 **Otros Datos:** Carné de conducir, exesquiador federado.
 
 ---
 
@@ -29,19 +29,6 @@ Tengo especial interés en incorporarme al mundo profesional (con el objetivo pu
 
 *   **Grado en Ingeniería Informática** | *FIB - UPC Barcelona Tech* (Septiembre 2024 - Presente)
     *   **Asignaturas Clave:** Estructuras de Datos y Algoritmos (EDA), Bases de Datos, Sistemas Operativos, Ingeniería de Software, Sistemas de Redes.
-*   **Bachillerato Científico-Tecnológico** | *Colegio Reial Monestir de Santa Isabel* (Sep 2022 - Jun 2024)
-    *   Nota media de Bachillerato: **8,93**
-    *   Nota de la Fase General PAU (Selectividad): **11,4**
-    *   Proyecto de Investigación de Bachillerato: **10**
-
----
-
-### 💼 Experiencia Laboral
-
-*   **Monitor de Tiempo Libre (Leisure Time Monitor)** | *Colegio Reial Monestir de Santa Isabel, Barcelona* (Julio 2023)
-    *   Gestión y dinamización de grupos juveniles, resolución de conflictos y coordinación proactiva del equipo de trabajo.
-    *   Diseño e implementación de actividades educativas, deportivas y recreativas.
-    *   Comunicación directa y constante con la dirección escolar y el equipo de instructores.
 
 ---
 
@@ -87,7 +74,7 @@ I am actively looking to enter the professional world through software engineeri
 
 - ⚙️ **Technical Interests:** Advanced algorithms, real-time computer graphics, low-level optimization, custom ROMs development, and hardware tuning.
 - 🗣️ **Languages:** Spanish (Native), Catalan (Native), English (C1 Level).
-- 🚗 **Other Info:** Driver's license, officially certified leisure time monitor (ROPEC), former federated skier.
+- 🚗 **Other Info:** Driver's license, former federated skier.
 
 ---
 
@@ -95,19 +82,6 @@ I am actively looking to enter the professional world through software engineeri
 
 *   **Bachelor of Computer Engineering** | *FIB - UPC Barcelona Tech* (September 2024 - Present)
     *   **Key Coursework:** Data Structures and Algorithms (EDA), Databases, Operating Systems, Software Engineering, Network Systems.
-*   **Scientific-Technological High School** | *Colegio Reial Monestir de Santa Isabel* (Sep 2022 - Jun 2024)
-    *   High School GPA: **8.93 / 10**
-    *   Selectividad (PAU) General Phase Score: **11.4 / 14**
-    *   High School Research Project Grade: **10 / 10**
-
----
-
-### 💼 Work Experience
-
-*   **Leisure Time Monitor** | *Colegio Reial Monestir de Santa Isabel, Barcelona* (July 2023)
-    *   Managed youth groups, facilitated conflict resolution, and proactively coordinated the recreational instructor team.
-    *   Designed and implemented educational, athletic, and recreational activities.
-    *   Maintained direct and constant communication with the school board and staff.
 
 ---
 
