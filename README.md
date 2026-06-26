@@ -67,6 +67,5 @@ A multi-functional productivity application designed to streamline student workf
 
 - 📧 **Email:** [carlosbernauscasanovas@gmail.com](mailto:carlosbernauscasanovas@gmail.com)
 - 📍 **Location:** Barcelona, Spain
-- 💼 **LinkedIn:** *[Add your LinkedIn profile link here]*
 
 *Feel free to reach out if you want to collaborate on a project or discuss software engineering opportunities!*
