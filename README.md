@@ -101,15 +101,6 @@ I am a second-year **Computer Engineering** student at **FIB - UPC Barcelona Tec
 
 ---
 
-## 📊 Estadísticas / GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlos-bernaus&show_icons=true&theme=tokyonight&locale=en&cache_seconds=1800" alt="Carlos's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-bernaus&layout=compact&theme=tokyonight&locale=en&cache_seconds=1800" alt="Carlos's Top Languages" height="180px" />
-</p>
-
----
-
 ## 📬 Contacto / Connect
 
 - 📧 **Email:** [carlosbernauscasanovas@gmail.com](mailto:carlosbernauscasanovas@gmail.com)
