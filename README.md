@@ -17,8 +17,6 @@
 ### 🚀 Sobre Mí
 Soy estudiante de segundo año de **Ingeniería Informática** en la **FIB - UPC Barcelona Tech**, con vistas a comenzar la mención de **Computación** el próximo curso. Me apasiona el desarrollo de software eficiente, los sistemas de bajo nivel, la teoría de la computación, los compiladores y la resolución de desafíos algorítmicos complejos. 
 
-Tengo especial interés en incorporarme al mundo profesional (con el objetivo puesto en prácticas de ingeniería de software como las de NTT Data) donde pueda aportar mi actitud positiva, fuerte compromiso, capacidad analítica, sólidas bases en algoritmos y un proactivo espíritu de trabajo en equipo.
-
 - ⚙️ **Intereses Técnicos:** Algoritmia avanzada, computación gráfica en tiempo real, optimización de sistemas a bajo nivel, desarrollo con Custom ROMs y optimización de hardware.
 
 
@@ -68,8 +66,6 @@ A través de mis proyectos académicos y personales he adquirido y consolidado l
 
 ### 🚀 About Me
 I am a second-year **Computer Engineering** student at **FIB - UPC Barcelona Tech**, preparing to specialize in the **Computing (Computación)** pathway next academic year. I am passionate about writing efficient, high-performance software, low-level systems, theoretical computer science, compilers, and complex algorithmic engineering.
-
-I am actively looking to enter the professional world through software engineering internships (such as those at NTT Data) where I can contribute my positive attitude, strong analytical mindset, solid foundation in data structures, and proactive teamwork skills.
 
 - ⚙️ **Technical Interests:** Advanced algorithms, real-time computer graphics, low-level optimization, custom ROMs development, and hardware tuning.
 
