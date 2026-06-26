@@ -57,8 +57,8 @@ A multi-functional productivity application designed to streamline student workf
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlos-231&show_icons=true&theme=tokyonight&locale=en&cache_seconds=1800" alt="Carlos's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-231&layout=compact&theme=tokyonight&locale=en&cache_seconds=1800" alt="Carlos's Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carlos-bernaus&show_icons=true&theme=tokyonight&locale=en&cache_seconds=1800" alt="Carlos's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-bernaus&layout=compact&theme=tokyonight&locale=en&cache_seconds=1800" alt="Carlos's Top Languages" height="180px" />
 </p>
 
 ---
