@@ -15,25 +15,56 @@
 ## 🇪🇸 Versión en Español
 
 ### 🚀 Sobre Mí
-Soy estudiante de segundo año de **Ingeniería Informática** en la **FIB - UPC Barcelona Tech**, con la mira puesta en especializarme en la mención de **Computación** el próximo año. Me apasiona el desarrollo de software eficiente, los sistemas de bajo nivel, la teoría de la computación, los compiladores y la resolución de desafíos algorítmicos complejos. Busco aplicar estas sólidas bases de ingeniería en proyectos reales y a través de una práctica profesional en ingeniería de software.
+Soy estudiante de segundo año de **Ingeniería Informática** en la **FIB - UPC Barcelona Tech**, con vistas a comenzar la mención de **Computación** el próximo curso. Me apasiona el desarrollo de software eficiente, los sistemas de bajo nivel, la teoría de la computación, los compiladores y la resolución de desafíos algorítmicos complejos. 
 
-- 🎓 **Educación:** Grado en Ingeniería Informática en **FIB - UPC Barcelona Tech** (2024 - Presente).
-- ⚙️ **Intereses Técnicos:** Algoritmia avanzada, optimización de sistemas, custom ROMs y compiladores.
+Tengo especial interés en incorporarme al mundo profesional (con el objetivo puesto en prácticas de ingeniería de software como las de NTT Data) donde pueda aportar mi actitud positiva, fuerte compromiso, capacidad analítica, sólidas bases en algoritmos y un proactivo espíritu de trabajo en equipo.
+
+- ⚙️ **Intereses Técnicos:** Algoritmia avanzada, computación gráfica en tiempo real, optimización de sistemas a bajo nivel, desarrollo con Custom ROMs y optimización de hardware.
 - 🗣️ **Idiomas:** Español (Nativo), Catalán (Nativo), Inglés (Nivel C1).
+- 🚗 **Otros Datos:** Carné de conducir, monitor de tiempo libre con certificación oficial (ROPEC), exesquiador federado.
 
 ---
 
-### 📂 Proyectos y Repositorios
+### 🎓 Educación
 
-Aquí tienes una descripción de mis proyectos principales y trabajos de laboratorio:
+*   **Grado en Ingeniería Informática** | *FIB - UPC Barcelona Tech* (Septiembre 2024 - Presente)
+    *   **Asignaturas Clave:** Estructuras de Datos y Algoritmos (EDA), Bases de Datos, Sistemas Operativos, Ingeniería de Software, Sistemas de Redes.
+*   **Bachillerato Científico-Tecnológico** | *Colegio Reial Monestir de Santa Isabel* (Sep 2022 - Jun 2024)
+    *   Nota media de Bachillerato: **8,93**
+    *   Nota de la Fase General PAU (Selectividad): **11,4**
+    *   Proyecto de Investigación de Bachillerato: **10**
 
-*   **[mario-pro-2](https://github.com/Carlos-Bernaus/mario-pro-2)**: Un juego de plataformas 2D multijugador local desarrollado en **C++17**. Cuenta con un motor de renderizado por software puro (usando `fenster.h`) y una estructura de indexación espacial (`Finder`) para optimizar las colisiones físicas, reduciendo el coste computacional de $O(N^2)$ a casi $O(1)$.
-*   **[EDA](https://github.com/Carlos-Bernaus/EDA)**: Repositorio con soluciones detalladas en **C++** a los problemas de *Estructures de Dades i Algorismes* de la FIB. Cubre grafos, algoritmos de exploración (DFS/BFS), colas de prioridad, diccionarios y técnicas avanzadas de diseño de algoritmos.
-*   **[Snake3D-Qt-OpenGL](https://github.com/Carlos-Bernaus/Snake3D-Qt-OpenGL)**: Implementación interactiva del clásico juego Snake en 3D utilizando **C++**, **Qt** y **OpenGL**. Incluye iluminación dinámica (modelo de sombreado Phong), carga de modelos 3D y alternancia de cámaras (perspectiva y ortográfica superior).
-*   **[IDI-Labs](https://github.com/Carlos-Bernaus/IDI-Labs)**: Consolidación de los laboratorios de *Interacción y Diseño de Interfaces*. Contiene la progresión práctica desde dibujo 2D básico hasta escenas 3D con cámaras y luces conectadas a interfaces de usuario mediante el sistema de Señales y Slots de Qt.
-*   **[OpenGL-Lighting-3D](https://github.com/Carlos-Bernaus/OpenGL-Lighting-3D)**: Renderizado y modelado de escenas tridimensionales con iluminación por fragmento (Phong), gestión de múltiples fuentes de luz (focales, direccionales) y manipulación de cámaras virtuales interactivas mediante ángulos de Euler.
-*   **[Tangram-Qt-OpenGL](https://github.com/Carlos-Bernaus/Tangram-Qt-OpenGL)**: Juego interactivo bidimensional del Tangram. Permite la manipulación en tiempo real (traslación, rotación y selección) de las 7 piezas clásicas mediante eventos de teclado y cálculos de centros de gravedad.
-*   **[Simon-Says-Qt](https://github.com/Carlos-Bernaus/Simon-Says-Qt)**: Clon interactivo del popular juego de memoria Simon Says, programado con lógica orientada a objetos en C++ y la biblioteca Qt.
+---
+
+### 💼 Experiencia Laboral
+
+*   **Monitor de Tiempo Libre (Leisure Time Monitor)** | *Colegio Reial Monestir de Santa Isabel, Barcelona* (Julio 2023)
+    *   Gestión y dinamización de grupos juveniles, resolución de conflictos y coordinación proactiva del equipo de trabajo.
+    *   Diseño e implementación de actividades educativas, deportivas y recreativas.
+    *   Comunicación directa y constante con la dirección escolar y el equipo de instructores.
+
+---
+
+### 📂 Proyectos y Repositorios (Lo que he aprendido)
+
+A través de mis proyectos académicos y personales he adquirido y consolidado los siguientes conocimientos prácticos:
+
+*   **[mario-pro-2](https://github.com/Carlos-Bernaus/mario-pro-2)** (Plataformas 2D Multijugador en C++17)
+    *   *Lo que aprendí:* Diseño e implementación de un **motor de renderizado por software puro** escribiendo píxeles de forma directa sobre búferes de memoria usando `fenster.h`. 
+    *   *Optimización física:* Modelado matemático de gravedad, fricción, inercia y colisiones de estado sólido. Programación de una estructura de **indexación espacial** basada en una cuadrícula de $10\times10$ que reduce el costo de detección de colisiones físicas de un costoso $O(N^2)$ a prácticamente $O(1)$.
+*   **[EDA](https://github.com/Carlos-Bernaus/EDA)** (Estructures de Dades i Algorismes)
+    *   *Lo que aprendí:* Modelado avanzado de problemas complejos mediante estructuras de **grafos** (dirigidos, no dirigidos y con pesos). Implementación eficiente de algoritmos de búsqueda y exploración (DFS, BFS, Dijkstra).
+    *   *Optimización:* Uso riguroso de colas de prioridad, tablas hash y árboles balanceados bajo estrictas restricciones de tiempo de ejecución y memoria dinámica impuestos por el sistema de jueceo automático de la FIB.
+*   **[Snake3D-Qt-OpenGL](https://github.com/Carlos-Bernaus/Snake3D-Qt-OpenGL)** (Juego Interactivo en C++/Qt y OpenGL 3D)
+    *   *Lo que aprendí:* Programación gráfica interactiva en 3D. Carga y parseado manual de mallas tridimensionales desde archivos `.obj`.
+    *   *Control de cámara:* Control dinámico de vistas virtuales utilizando ángulos de Euler (guiñada y cabeceo) manipulados con eventos de ratón. Implementación de proyección en perspectiva y ortográfica superior e integración del bucle de juego basado en temporizadores.
+*   **[IDI-Labs](https://github.com/Carlos-Bernaus/IDI-Labs) / [OpenGL-Lighting-3D](https://github.com/Carlos-Bernaus/OpenGL-Lighting-3D)** (Laboratorios de Gráficos y Luces)
+    *   *Lo que aprendí:* Dominio del pipeline moderno de OpenGL. Programación de shaders dinámicos en **GLSL** (Vertex y Fragment shaders).
+    *   *Iluminación y sombreado:* Implementación por fragmento del modelo de reflexión de **Phong** (iluminación ambiental, difusa y especular con brillos metálicos). Configuración de luces direccionales, ambientales y focales acopladas con interfaces de usuario **Qt Designer** mediante el mecanismo de **Señales y Slots** (Signals and Slots) para control en tiempo real.
+*   **[Tangram-Qt-OpenGL](https://github.com/Carlos-Bernaus/Tangram-Qt-OpenGL)** (Geometría Interactiva en 2D)
+    *   *Lo que aprendí:* Aplicación práctica de transformaciones afines bidimensionales (traslación y rotación de matrices). Cálculo dinámico del centro de gravedad de polígonos complejos para realizar rotaciones precisas sobre su propio eje.
+*   **[Simon-Says-Qt](https://github.com/Carlos-Bernaus/Simon-Says-Qt)** (Juego de Memoria)
+    *   *Lo que aprendí:* Estructuración de lógica de juego basada en el paradigma orientado a objetos, gestión del estado mediante temporizadores en la interfaz y manejo de eventos Qt.
 
 ---
 
@@ -42,7 +73,7 @@ Aquí tienes una descripción de mis proyectos principales y trabajos de laborat
 *   **Study Flow App** | *Líder de Proyecto y Diseñador UX*
     *   **Top 8 Finalista** en la *Student Hackpad Hackathon* (Octubre 2025).
     *   Diseñé el flujo de trabajo principal de esta aplicación de productividad para estudiantes, que integra un navegador web y un bloc de notas sin distracciones.
-    *   Coordiné al equipo de trabajo para entregar un prototipo funcional bajo un límite estricto de tiempo.
+    *   Coordiné al equipo de desarrollo para la entrega y presentación de un prototipo interactivo funcional en un límite de tiempo de hackathon de pocas horas.
 
 ---
 
@@ -50,23 +81,56 @@ Aquí tienes una descripción de mis proyectos principales y trabajos de laborat
 ## 🇬🇧 English Version
 
 ### 🚀 About Me
-I am a second-year **Computer Engineering** student at **FIB - UPC Barcelona Tech**, preparing to specialize in the **Computing (Computación)** pathway next year. I am passionate about building efficient software, low-level systems, theory of computation, compilers, and solving complex algorithmic challenges. My goal is to apply these solid engineering foundations to real-world projects through a software engineering internship.
+I am a second-year **Computer Engineering** student at **FIB - UPC Barcelona Tech**, preparing to specialize in the **Computing (Computación)** pathway next academic year. I am passionate about writing efficient, high-performance software, low-level systems, theoretical computer science, compilers, and complex algorithmic engineering.
 
-- 🎓 **Education:** Bachelor of Computer Engineering at **FIB - UPC Barcelona Tech** (2024 - Present).
-- ⚙️ **Technical Interests:** Advanced algorithms, systems optimization, custom ROMs, and compilers.
+I am actively looking to enter the professional world through software engineering internships (such as those at NTT Data) where I can contribute my positive attitude, strong analytical mindset, solid foundation in data structures, and proactive teamwork skills.
+
+- ⚙️ **Technical Interests:** Advanced algorithms, real-time computer graphics, low-level optimization, custom ROMs development, and hardware tuning.
 - 🗣️ **Languages:** Spanish (Native), Catalan (Native), English (C1 Level).
+- 🚗 **Other Info:** Driver's license, officially certified leisure time monitor (ROPEC), former federated skier.
 
 ---
 
-### 📂 Projects & Repositories
+### 🎓 Education
 
-*   **[mario-pro-2](https://github.com/Carlos-Bernaus/mario-pro-2)**: A 2D local multiplayer platformer developed in **C++17**. It features a pure software renderer (using `fenster.h`) and a custom spatial indexing structure (`Finder`) to optimize physics collisions, reducing complexity from $O(N^2)$ to nearly $O(1)$.
-*   **[EDA](https://github.com/Carlos-Bernaus/EDA)**: Repository containing **C++** solutions for FIB's *Data Structures & Algorithms* course. Focuses on graphs, search algorithms (DFS/BFS), priority queues, dictionaries, and advanced algorithm design techniques.
-*   **[Snake3D-Qt-OpenGL](https://github.com/Carlos-Bernaus/Snake3D-Qt-OpenGL)**: Interactive 3D Snake game built with **C++**, **Qt**, and **OpenGL**. Features dynamic lighting (Phong shading), OBJ model loading, and dual cameras (perspective and top-down orthographic).
-*   **[IDI-Labs](https://github.com/Carlos-Bernaus/IDI-Labs)**: Laboratory exercises from the *Interaction and Interface Design* course. Follows a progression from basic 2D rendering in OpenGL to full 3D environments synced with Qt User Interfaces via Signals & Slots.
-*   **[OpenGL-Lighting-3D](https://github.com/Carlos-Bernaus/OpenGL-Lighting-3D)**: 3D scene renderer highlighting per-fragment Phong illumination, multiple light source control (ambient, directional, focal), and Euler-angle camera controls.
-*   **[Tangram-Qt-OpenGL](https://github.com/Carlos-Bernaus/Tangram-Qt-OpenGL)**: Interactive 2D Tangram game. Implements real-time translation, rotation, and selection of the 7 classic pieces using keyboard events and center-of-mass calculations.
-*   **[Simon-Says-Qt](https://github.com/Carlos-Bernaus/Simon-Says-Qt)**: Interactive Simon Says memory game clone, built using C++ object-oriented logic and the Qt framework.
+*   **Bachelor of Computer Engineering** | *FIB - UPC Barcelona Tech* (September 2024 - Present)
+    *   **Key Coursework:** Data Structures and Algorithms (EDA), Databases, Operating Systems, Software Engineering, Network Systems.
+*   **Scientific-Technological High School** | *Colegio Reial Monestir de Santa Isabel* (Sep 2022 - Jun 2024)
+    *   High School GPA: **8.93 / 10**
+    *   Selectividad (PAU) General Phase Score: **11.4 / 14**
+    *   High School Research Project Grade: **10 / 10**
+
+---
+
+### 💼 Work Experience
+
+*   **Leisure Time Monitor** | *Colegio Reial Monestir de Santa Isabel, Barcelona* (July 2023)
+    *   Managed youth groups, facilitated conflict resolution, and proactively coordinated the recreational instructor team.
+    *   Designed and implemented educational, athletic, and recreational activities.
+    *   Maintained direct and constant communication with the school board and staff.
+
+---
+
+### 📂 Projects & Repositories (What I Learned)
+
+My academic and personal projects have allowed me to acquire and consolidate the following technical competencies:
+
+*   **[mario-pro-2](https://github.com/Carlos-Bernaus/mario-pro-2)** (2D Multiplayer Platformer in C++17)
+    *   *What I learned:* Designed and built a **pure software rendering engine** from scratch, drawing pixels directly into memory buffers using `fenster.h`.
+    *   *Physics Optimization:* Modeled physics properties such as gravity, solid-body collisions, and friction. Implemented a **spatial indexing structure** (10x10 Grid) reducing collision detection computational cost from $O(N^2)$ to nearly $O(1)$.
+*   **[EDA](https://github.com/Carlos-Bernaus/EDA)** (Data Structures & Algorithms)
+    *   *What I learned:* Formulated advanced graphs models (directed, undirected, weighted). Coded high-performance graph search algorithms (DFS, BFS) and shortest-path solutions (Dijkstra).
+    *   *Optimization:* Strictly managed dynamic memory and execution time using priority queues, balanced BSTs, and hash tables under strict compiler evaluation limits.
+*   **[Snake3D-Qt-OpenGL](https://github.com/Carlos-Bernaus/Snake3D-Qt-OpenGL)** (3D Interactive Game in C++/Qt & OpenGL)
+    *   *What I learned:* Real-time 3D graphics concepts. Loaded and parsed manual OBJ/MTL meshes from local files.
+    *   *Camera Controls:* Designed dynamic virtual view controllers using Euler angles (yaw, pitch) driven by mouse click-and-drag. Configured perspective and orthographic camera projections alongside timer-based game loops.
+*   **[IDI-Labs](https://github.com/Carlos-Bernaus/IDI-Labs) / [OpenGL-Lighting-3D](https://github.com/Carlos-Bernaus/OpenGL-Lighting-3D)** (3D Lighting & Rendering Labs)
+    *   *What I learned:* Mastered the modern OpenGL graphic pipeline. Programmed dynamic shader components using **GLSL** (Vertex and Fragment shaders).
+    *   *Shading:* Implemented per-fragment **Phong reflection models** (ambient, diffuse, and specularity with specular exponents). Programmed light sources (directional, spotlights, point lights) connected to **Qt Designer UI** forms via **Signals and Slots** for interactive property modification.
+*   **[Tangram-Qt-OpenGL](https://github.com/Carlos-Bernaus/Tangram-Qt-OpenGL)** (2D Geometric Sandbox)
+    *   *What I learned:* Practical application of 2D affine transformations (matrix translation and rotation). Derived polygon center-of-mass equations for accurate rotation around local coordinate origins.
+*   **[Simon-Says-Qt](https://github.com/Carlos-Bernaus/Simon-Says-Qt)** (Memory Game Clone)
+    *   *What I learned:* Patterned game mechanics using Object-Oriented Programming (OOP) in C++, utilizing timers to handle UI state updates and button sequences.
 
 ---
 
@@ -74,8 +138,8 @@ I am a second-year **Computer Engineering** student at **FIB - UPC Barcelona Tec
 
 *   **Study Flow App** | *Project Lead & UX Designer*
     *   **Top 8 Finalist** at the *Student Hackpad Hackathon* (October 2025).
-    *   Designed the core productivity workflow, combining an integrated browser with a distraction-free notepad to streamline student tasks.
-    *   Coordinated a cross-functional team to deliver a fully functional prototype under tight deadlines.
+    *   Designed the core workflow of this student productivity app, combining an integrated browser with a distraction-free notepad.
+    *   Led and coordinated a cross-functional team to deliver a fully functional interactive prototype under strict hackathon deadlines.
 
 ---
 
@@ -97,6 +161,24 @@ I am a second-year **Computer Engineering** student at **FIB - UPC Barcelona Tec
   <img src="https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-1e293b?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+### **Habilidades Profesionales / Professional Skills**
+<p align="left">
+  <img src="https://img.shields.io/badge/Analytical_Thinking-1e293b?style=for-the-badge" alt="Analytical Thinking" />
+  <img src="https://img.shields.io/badge/Problem_Solving-1e293b?style=for-the-badge" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Strategic_Planning-1e293b?style=for-the-badge" alt="Strategic Planning" />
+  <img src="https://img.shields.io/badge/Project_Management-1e293b?style=for-the-badge" alt="Project Management" />
+  <img src="https://img.shields.io/badge/Teamwork-1e293b?style=for-the-badge" alt="Teamwork" />
+</p>
+
+---
+
+## 📊 Estadísticas / GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlos-bernaus&show_icons=true&theme=tokyonight&locale=en&cache_seconds=1800" alt="Carlos's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-bernaus&layout=compact&theme=tokyonight&locale=en&cache_seconds=1800" alt="Carlos's Top Languages" height="180px" />
 </p>
 
 ---
