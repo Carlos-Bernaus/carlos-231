@@ -20,8 +20,7 @@ Soy estudiante de segundo año de **Ingeniería Informática** en la **FIB - UPC
 Tengo especial interés en incorporarme al mundo profesional (con el objetivo puesto en prácticas de ingeniería de software como las de NTT Data) donde pueda aportar mi actitud positiva, fuerte compromiso, capacidad analítica, sólidas bases en algoritmos y un proactivo espíritu de trabajo en equipo.
 
 - ⚙️ **Intereses Técnicos:** Algoritmia avanzada, computación gráfica en tiempo real, optimización de sistemas a bajo nivel, desarrollo con Custom ROMs y optimización de hardware.
-- 🗣️ **Idiomas:** Español (Nativo), Catalán (Nativo), Inglés (Nivel C1).
-- 🚗 **Otros Datos:** Carné de conducir, exesquiador federado.
+
 
 ---
 
@@ -73,8 +72,7 @@ I am a second-year **Computer Engineering** student at **FIB - UPC Barcelona Tec
 I am actively looking to enter the professional world through software engineering internships (such as those at NTT Data) where I can contribute my positive attitude, strong analytical mindset, solid foundation in data structures, and proactive teamwork skills.
 
 - ⚙️ **Technical Interests:** Advanced algorithms, real-time computer graphics, low-level optimization, custom ROMs development, and hardware tuning.
-- 🗣️ **Languages:** Spanish (Native), Catalan (Native), English (C1 Level).
-- 🚗 **Other Info:** Driver's license, former federated skier.
+
 
 ---
 
@@ -146,14 +144,7 @@ My academic and personal projects have allowed me to acquire and consolidate the
   <img src="https://img.shields.io/badge/Teamwork-1e293b?style=for-the-badge" alt="Teamwork" />
 </p>
 
----
 
-## 📊 Estadísticas / GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlos-bernaus&show_icons=true&theme=tokyonight&locale=en&cache_seconds=1800" alt="Carlos's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-bernaus&layout=compact&theme=tokyonight&locale=en&cache_seconds=1800" alt="Carlos's Top Languages" height="180px" />
-</p>
 
 ---
 
